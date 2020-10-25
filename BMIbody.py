@@ -14,3 +14,5 @@ elif 25<=bmi<28:
 elif 28<=bmi<30:
            who,nat="偏胖","肥胖"
 print("BMI指标为：国际'{0}',国内'{1}'".format(who,nat))
+
+print("hello world")
